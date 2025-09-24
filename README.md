@@ -1,4 +1,5 @@
-#Deprecated in favour of [https://github.com/icpc/balloons](https://github.com/icpc/balloons)
+> [!CAUTION]
+> Deprecated in favour of [https://github.com/icpc/balloons](https://github.com/icpc/balloons)
 
 # ball
 Balloon manager
